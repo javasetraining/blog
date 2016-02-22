@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1a002fd-58bb-45da-9bbd-645a94669eb5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blog.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/123567/info.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/add-post.php" afterPath="$PROJECT_DIR$/123567/add-post.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/add-user.php" afterPath="$PROJECT_DIR$/123567/add-user.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/edit-post.php" afterPath="$PROJECT_DIR$/123567/edit-post.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/edit-user.php" afterPath="$PROJECT_DIR$/123567/edit-user.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/index.php" afterPath="$PROJECT_DIR$/123567/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/login.php" afterPath="$PROJECT_DIR$/123567/login.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/logout.php" afterPath="$PROJECT_DIR$/123567/logout.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/menu.php" afterPath="$PROJECT_DIR$/123567/menu.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/admin/users.php" afterPath="$PROJECT_DIR$/123567/users.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/config.php" afterPath="$PROJECT_DIR$/includes/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/main.css" afterPath="$PROJECT_DIR$/style/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viewpost.php" afterPath="$PROJECT_DIR$/viewpost.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/123567/index.php" afterPath="$PROJECT_DIR$/123567/index.php" />
     </list>
     <ignored path="html.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,17 +83,17 @@
         <entry file="file://$PROJECT_DIR$/123567/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.37471265">
-              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+              <caret line="64" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
               <folding>
-                <marker date="1456151463593" expanded="true" signature="268:313" placeholder="DELETE FROM ..." />
-                <marker date="1456151463593" expanded="true" signature="1614:1638" placeholder="SELECT postI..blog_posts..." />
-                <marker date="1456151463593" expanded="true" signature="1614:1684" placeholder="SELECT postI..blog_posts..." />
-                <marker date="1456151463593" expanded="true" signature="1712:1728" placeholder="SELECT postI..blog_posts..." />
-                <marker date="1456151463593" expanded="true" signature="1712:1729" placeholder="SELECT postI..." />
-                <marker date="1456151463593" expanded="true" signature="1985:2016" placeholder="..." />
-                <marker date="1456151463593" expanded="true" signature="1985:2040" placeholder="..." />
-                <marker date="1456151463593" expanded="true" signature="2045:2079" placeholder="..." />
-                <marker date="1456151463593" expanded="true" signature="2232:2295" placeholder="..." />
+                <marker date="1456160075364" expanded="true" signature="268:313" placeholder="DELETE FROM ..." />
+                <marker date="1456160075364" expanded="true" signature="1634:1658" placeholder="SELECT postI..blog_posts..." />
+                <marker date="1456160075364" expanded="true" signature="1634:1704" placeholder="SELECT postI..blog_posts..." />
+                <marker date="1456160075364" expanded="true" signature="1732:1748" placeholder="SELECT postI..blog_posts..." />
+                <marker date="1456160075364" expanded="true" signature="1732:1749" placeholder="SELECT postI..." />
+                <marker date="1456160075364" expanded="true" signature="2005:2036" placeholder="..." />
+                <marker date="1456160075364" expanded="true" signature="2005:2060" placeholder="..." />
+                <marker date="1456160075364" expanded="true" signature="2065:2099" placeholder="..." />
+                <marker date="1456160075364" expanded="true" signature="2252:2315" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -467,17 +454,17 @@
     <entry file="file://$PROJECT_DIR$/123567/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37471265">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <caret line="64" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
           <folding>
-            <marker date="1456151463593" expanded="true" signature="268:313" placeholder="DELETE FROM ..." />
-            <marker date="1456151463593" expanded="true" signature="1614:1638" placeholder="SELECT postI..blog_posts..." />
-            <marker date="1456151463593" expanded="true" signature="1614:1684" placeholder="SELECT postI..blog_posts..." />
-            <marker date="1456151463593" expanded="true" signature="1712:1728" placeholder="SELECT postI..blog_posts..." />
-            <marker date="1456151463593" expanded="true" signature="1712:1729" placeholder="SELECT postI..." />
-            <marker date="1456151463593" expanded="true" signature="1985:2016" placeholder="..." />
-            <marker date="1456151463593" expanded="true" signature="1985:2040" placeholder="..." />
-            <marker date="1456151463593" expanded="true" signature="2045:2079" placeholder="..." />
-            <marker date="1456151463593" expanded="true" signature="2232:2295" placeholder="..." />
+            <marker date="1456160075364" expanded="true" signature="268:313" placeholder="DELETE FROM ..." />
+            <marker date="1456160075364" expanded="true" signature="1634:1658" placeholder="SELECT postI..blog_posts..." />
+            <marker date="1456160075364" expanded="true" signature="1634:1704" placeholder="SELECT postI..blog_posts..." />
+            <marker date="1456160075364" expanded="true" signature="1732:1748" placeholder="SELECT postI..blog_posts..." />
+            <marker date="1456160075364" expanded="true" signature="1732:1749" placeholder="SELECT postI..." />
+            <marker date="1456160075364" expanded="true" signature="2005:2036" placeholder="..." />
+            <marker date="1456160075364" expanded="true" signature="2005:2060" placeholder="..." />
+            <marker date="1456160075364" expanded="true" signature="2065:2099" placeholder="..." />
+            <marker date="1456160075364" expanded="true" signature="2252:2315" placeholder="..." />
           </folding>
         </state>
       </provider>

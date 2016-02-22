@@ -60,7 +60,8 @@ if (isset($_GET['delpost'])) {
     <table>
         <tr>
             <th>Title</th>
-            <th><a href="?sort=<?php echo(($state == "ASC") ? "DESC" : "ASC"); ?>"data-toggle="tooltip" title="Сортировка">Date</a></th>
+            <th><a href="?sort=<?php echo(($state == "ASC") ? "DESC" : "ASC"); ?>" data-toggle="tooltip"
+                   title="Сортировка">Date</a></th>
             <th>Action</th>
         </tr>
         <?php
