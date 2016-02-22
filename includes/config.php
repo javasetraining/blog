@@ -26,13 +26,13 @@ function __autoload($class) {
       require_once $classpath;
 	} 	
 	
-	//if call from within admin adjust the path
+	//if call from within 123567 (admin folder) adjust the path
    $classpath = '../classes/class.'.$class . '.php';
    if ( file_exists($classpath)) {
       require_once $classpath;
 	}
 	
-	//if call from within admin adjust the path
+	//if call from within 123567 (admin foledr) adjust the path
    $classpath = '../../classes/class.'.$class . '.php';
    if ( file_exists($classpath)) {
       require_once $classpath;

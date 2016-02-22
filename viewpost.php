@@ -18,14 +18,22 @@ if($row['postID'] == ''){
     <title>Blog - <?php echo $row['postTitle'];?></title>
     <link rel="stylesheet" href="style/normalize.css">
     <link rel="stylesheet" href="style/main.css">
+
+	<div class="topline">
+		<div class="topline-block" id="topline-block-1"></div>
+		<div class="topline-block" id="topline-block-2"></div>
+		<div class="topline-block" id="topline-block-3"></div>
+		<div class="topline-block" id="topline-block-4"></div>
+		<div class="topline-block" id="topline-block-5"></div>
+	</div>
 </head>
 <body>
 
 	<div id="wrapper">
 
-		<h1>Blog</h1>
+		<h1>Блог великого теоретика</h1>
 		<hr />
-		<p><a href="./">Blog Index</a></p>
+		<p><a href="./">Home Page</a></p>
 
 
 		<?php	
